@@ -7,7 +7,6 @@ from scipy.stats import skewnorm
 import numpy as np
 import pandas as pd
 import random
-import tensorflow as tf
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import (
     f1_score, roc_curve, roc_auc_score,
